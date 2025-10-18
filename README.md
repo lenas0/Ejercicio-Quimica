@@ -12,4 +12,4 @@ Tecnologías utilizadas
 - JavaScript
 
 Autor
-https://github.com/lenas0/Configuracion-electronica.git
+https://github.com/lenas0/Ejercicio-Quimica.git
